@@ -14,13 +14,13 @@ Platform: Visual Studio 2022
 
 Language: C++
 
-## BITU2913 Workshop 1
+# BITU2913 Workshop 1
 
 This project is used for subject **Workshop 1** which is developed by **NG WEI HEN**.
 
 This project is done in **Semester 1 Year 2022/2023.**
 
-**Developer Details:**
+## **Developer Details:**
 
 Name: NG WEI HEN (B032110201)
 
