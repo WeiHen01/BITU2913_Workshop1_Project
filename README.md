@@ -31,3 +31,7 @@ Course / Section / Group: BITS S1G1
 
 ## **Presentation Link** 
 Watch the presentation here: https://www.youtube.com/watch?v=t1kwBGhEFAQ&list=PLeQRWEe6nZbVJCvfr1yFFv31xOU3_hTq7&index=2
+
+
+## **Extension and Libraries**
+Download the MySQL C++ Connector from [here](https://downloads.mysql.com/archives/c-cpp/)
